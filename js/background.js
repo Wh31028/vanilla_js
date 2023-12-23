@@ -9,3 +9,4 @@ bgImage.src = `img/${chosenImage}`;
 console.log(bgImage);
 
 document.body.appendChild(bgImage);
+//prepend를  하면 가장 위에 오게 할 수 있음.
